@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:foaf="http://xmlns.com/foaf/0.1/"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        xmlns:owl="http://www.w3.org/2002/07/owl#"
+        xmlns:dc="http://purl.org/dc/terms/"
+        xmlns:comic="http://example.org/schema/comic/">
+
+		<comic:manga rdf:about="http://dbpedia.org/resource/Naruto">
+            <comic:nomor>fn1</comic:nomor>
+    		<rdfs:label>Naruto</rdfs:label>
+    		<comic:year>1999</comic:year>
+            <comic:preview rdf:resource="https://www.youtube.com/embed/pOktlVuoNUU"/>
+    		<foaf:homepage rdf:resource="https://myanimelist.net/manga/11/Naruto"/>
+    	</comic:manga>
+
+        <comic:manga rdf:about="http://dbpedia.org/resource/One_Piece">
+            <comic:nomor>fn2</comic:nomor>
+    		<rdfs:label>One Piece</rdfs:label>
+    		<comic:year>1997</comic:year>
+            <comic:preview rdf:resource="https://www.youtube.com/embed/VefXBNihS40"/>
+    		<foaf:homepage rdf:resource="https://myanimelist.net/manga/13/One_Piece"/>
+    	</comic:manga>
+
+        <comic:manga rdf:about="http://dbpedia.org/resource/JoJo's_Bizarre_Adventure">
+            <comic:nomor>fn3</comic:nomor>
+    		<rdfs:label>Jojo's Biarre Adventure</rdfs:label>
+    		<comic:year>1990</comic:year>
+            <comic:preview rdf:resource="https://www.youtube.com/embed/Vmrp5ybzoYk"/>
+    		<foaf:homepage rdf:resource="https://myanimelist.net/manga/32347/JoJos_Bizarre_Adventure"/>
+    	</comic:manga>
+
+       <comic:manga rdf:about="http://dbpedia.org/resource/Samurai_8:_The_Tale_of_Hachimaru">
+            <comic:nomor>fn4</comic:nomor>
+    		<rdfs:label>Samurai 8: The Tale of Hachimaru</rdfs:label>
+    		<comic:year>1984</comic:year>
+            <comic:preview rdf:resource="https://www.youtube.com/embed/4EFKFlJSR0A"/>
+    		<foaf:homepage rdf:resource="https://myanimelist.net/manga/117133/Samurai_8__Hachimaru_Den"/>
+    	</comic:manga>
+
+        <comic:manga rdf:about="http://dbpedia.org/resource/Monster_(manga)">
+            <comic:nomor>fn5</comic:nomor>
+    		<rdfs:label>Monster</rdfs:label>
+    		<comic:year>2006</comic:year>
+            <comic:preview rdf:resource="https://www.youtube.com/embed/R932Fn1pohg"/>
+    		<foaf:homepage rdf:resource="https://myanimelist.net/manga/1/Monster"/>
+    	</comic:manga>
+
+      <comic:manga rdf:about="http://dbpedia.org/resource/Remina">
+            <comic:nomor>fn6</comic:nomor>
+    		<rdfs:label>Jigokusei Remina</rdfs:label>
+    		<comic:year>2004</comic:year>
+            <comic:preview rdf:resource="https://www.youtube.com/embed/yoy2JsNuKoY"/>
+    		<foaf:homepage rdf:resource="https://myanimelist.net/manga/3992/Jigokusei_Remina"/>
+    	</comic:manga>
+
+        <comic:manga rdf:about="http://dbpedia.org/resource/Noragami">
+            <comic:nomor>fn7</comic:nomor>
+    		<rdfs:label>Noragami</rdfs:label>
+    		<comic:year>2014</comic:year>
+            <comic:preview rdf:resource="https://www.youtube.com/embed/KvCslAfaUr8"/>
+    		<foaf:homepage rdf:resource="https://myanimelist.net/manga/24692/Noragami"/>
+    	</comic:manga>
+
+        <comic:manga rdf:about="http://dbpedia.org/resource/Gin_Tama">
+            <comic:nomor>fn8</comic:nomor>
+    		<rdfs:label>Gintama</rdfs:label>
+    		<comic:year>2003</comic:year>
+            <comic:preview rdf:resource="https://www.youtube.com/embed/-7ihlo8ughE"/>
+    		<foaf:homepage rdf:resource="https://myanimelist.net/manga/44/Gintama"/>
+    	</comic:manga>
+
+        <comic:manga rdf:about="http://dbpedia.org/resource/Uzumaki">
+            <comic:nomor>fn9</comic:nomor>
+    		<rdfs:label>Uzumaki</rdfs:label>
+    		<comic:year>1998</comic:year>
+            <comic:preview rdf:resource="https://www.youtube.com/embed/MNCWOCVPzDE"/>
+    		<foaf:homepage rdf:resource="https://myanimelist.net/manga/436/Uzumaki"/>
+    	</comic:manga>
+
+	<comic:manga rdf:about="http://dbpedia.org/resource/20th_Century_Boys">
+            <comic:nomor>fn10</comic:nomor>
+    		<rdfs:label>20th Century Boys</rdfs:label>
+    		<comic:year>1999</comic:year>
+            <comic:preview rdf:resource="https://www.youtube.com/embed/JHZf5IVV0i8"/>
+    		<foaf:homepage rdf:resource="https://myanimelist.net/manga/3/20th_Century_Boys"/>
+    	</comic:manga>
+ 
+         <comic:manga rdf:about="http://dbpedia.org/resource/Tomie">
+            <comic:nomor>fn11</comic:nomor>
+    		<rdfs:label>Tomie</rdfs:label>
+    		<comic:year>1987</comic:year>
+            <comic:preview rdf:resource="https://www.youtube.com/embed/_3RSBfHfm6Y"/>
+    		<foaf:homepage rdf:resource="https://myanimelist.net/manga/912/Tomie"/>
+    	</comic:manga>
+
+<comic:manga rdf:about="http://dbpedia.org/resource/No_Longer_Human_(Ito_manga)">
+            <comic:nomor>fn12</comic:nomor>
+    		<rdfs:label>Ningen Shikkaku</rdfs:label>
+    		<comic:year>2017</comic:year>
+            <comic:preview rdf:resource="https://www.youtube.com/embed/IyKJvMd-d98"/>
+    		<foaf:homepage rdf:resource="https://myanimelist.net/manga/106609/Ningen_Shikkaku"/>
+    	</comic:manga>
+        
+</rdf:RDF>
